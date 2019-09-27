@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seephaise.helens.education/sitemap.xml
